@@ -14,7 +14,7 @@ README 格式与更新要求：
 
 一个针对 Flyme 的全方位体验增强模块，集百家 ~~(ColorOS)~~ 之长，提供桌面、控制中心、通知中心与状态栏、锁屏和系统净化等功能，改善系统界面与交互体验。
 
-<img width="4450" height="2499" alt="image" src="https://github.com/user-attachments/assets/f77a9ac8-ebc1-40de-b8be-3ee038a10e39" />
+<img width="4450" height="2499" alt="image" src="https://github.com/user-attachments/assets/62329c74-caad-49a8-96f7-553ab2faa654" />
 
 本项目为 [ColorOS Mod](https://github.com/Xposed-Modules-Repo/com.rikumi.colorosmod) 姊妹项目。
 
@@ -162,7 +162,6 @@ AI 产生的代码可能无法完全符合开发者预期，请在使用前自�
 - 隐藏睡眠模式图标
 - 隐藏 VPN 图标
 - 隐藏定位图标
-- 隐藏蓝牙图标
 - 隐藏投屏图标
 - 隐藏热点图标
 - 隐藏屏幕录制图标
@@ -279,6 +278,8 @@ AI 产生的代码可能无法完全符合开发者预期，请在使用前自�
 
 - 修复重启系统服务后解锁卡顿
 - 强制显示设置首页 Google
+- Android 版本信息显示内核版本
+- 状态信息显示电池容量
 - 深色模式系统应用背景纯黑
 - 修复无线调试配对页面主题适配
 - 强制深色适配使用白名单
